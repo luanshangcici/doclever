@@ -6,6 +6,7 @@ import org.junit.runner.notification.RunNotifier;
 import org.junit.runners.Suite;
 import org.junit.runners.model.InitializationError;
 
+import com.report.html.GlobleHtmlFile;
 import com.report.html.HtmlFile;
 import com.report.html.HtmlUtil;
 
