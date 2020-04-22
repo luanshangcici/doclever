@@ -4,8 +4,10 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
-@RunWith(Suite.class)
-@SuiteClasses({})
+import com.my.testcase.test_doclever.setting.SettingCases;
+
+@RunWith(MySuite.class)
+@SuiteClasses({SettingCases.class})
 public class AllTests {
 
 }

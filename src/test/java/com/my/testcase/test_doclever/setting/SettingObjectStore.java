@@ -1,6 +1,10 @@
 package com.my.testcase.test_doclever.setting;
 
-public class SettingObjectStore {
+import com.my.testcase.test_doclever.libs.PubObjectStore;
+
+public class SettingObjectStore extends PubObjectStore {
+	
+	
 
 	//public static final String LOGIN_LINK="link=登录";
 	//public static final String LOGIN_USER="xpath=//input[@type='text']";

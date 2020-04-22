@@ -8,6 +8,7 @@ public class PubObjectStore {
 	public static final String LOGIN_BTN="id=login";
 	public static final String LOGOUT_BTN="xpath=/html/body/ul/li[2]";
 	public static final String USER_LINK="xpath=//div[@id='app']/div/div[2]/div/div[3]/div/span/span";
+
 	
 	
    
